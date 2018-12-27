@@ -1,7 +1,10 @@
-ÁôÑÔÄÚÈİ±í:
-id(Ö÷¼ü)
-uid(ÓÃ»§id)
-content(ÁôÑÔÄÚÈİ)
-picture(ÁôÑÔĞÄÇéÍ¼Æ¬)
-timeline(Ê±¼ä´Á)
-delfla(ÊÇ·ñÉ¾³ı)
+ç•™è¨€å†…å®¹è¡¨:
+id(ä¸»é”®)
+uid(ç”¨æˆ·id)
+content(ç•™è¨€å†…å®¹)
+picture(ç•™è¨€å¿ƒæƒ…å›¾ç‰‡)
+timeline(æ—¶é—´æˆ³)
+delfla(æ˜¯å¦åˆ é™¤)
+<?php
+  echo 'Hellow Git';
+?>
