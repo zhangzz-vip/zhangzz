@@ -6,5 +6,5 @@ picture(留言心情图片)
 timeline(时间戳)
 delfla(是否删除)
 <?php
-  echo 'Hellow Git！';
+  echo 'Hellow Git6666！';
 ?>
